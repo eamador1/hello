@@ -54,6 +54,7 @@ This project shows tools and best practices a developer must master when creatin
 In order to run this project you need:
 
 VS Code editor
+Web Browser
 
 ### Setup
 
@@ -72,7 +73,6 @@ VS Code, downloading repo.
 To run the project, execute the following command:
 
 
-
 ### Run tests
 
 To run tests, run the following command:
@@ -89,11 +89,12 @@ You can deploy this project using: Web host provider
 ## 👥 Authors <a name="authors"></a>
 
 👤 Erwin E Amador
-github: https://github.com/eamador1
+- github: https://github.com/eamador1
+- Twitter: [@hokieamador](https://twitter.com/hokieamador)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Create HTML Content]**
+- [ ] **[Add HTML Content]**
 - [ ] **[Create Style using CSS]**
 - [ ] **[Deploy webpage]**
 
@@ -112,3 +113,7 @@ Your comments and support will be greatly appreciated!
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<a name="readme-top"></a>
